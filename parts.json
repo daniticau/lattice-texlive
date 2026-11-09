@@ -1,0 +1,47 @@
+{
+  "version": "1.4.1",
+  "files": {
+    "busytex.wasm": {
+      "size": 32507525,
+      "parts": [
+        "busytex.wasm.part000",
+        "busytex.wasm.part001"
+      ],
+      "sha256": "8d1988fc58cd1611c3cbd6bd986c3e607e5ff44f1d94252207ff7aae4cee72e0",
+      "type": "application/wasm"
+    },
+    "biber.data": {
+      "size": 21079910,
+      "parts": [
+        "biber.data.part000",
+        "biber.data.part001"
+      ],
+      "sha256": "9ea1357e6180477479b5edfe17538ba655ebebc03142a195d85fb1d47899df21",
+      "type": "application/octet-stream"
+    },
+    "texlive-extra.data": {
+      "size": 341568560,
+      "parts": [
+        "texlive-extra.data.part000",
+        "texlive-extra.data.part001",
+        "texlive-extra.data.part002",
+        "texlive-extra.data.part003",
+        "texlive-extra.data.part004",
+        "texlive-extra.data.part005",
+        "texlive-extra.data.part006",
+        "texlive-extra.data.part007",
+        "texlive-extra.data.part008",
+        "texlive-extra.data.part009",
+        "texlive-extra.data.part010",
+        "texlive-extra.data.part011",
+        "texlive-extra.data.part012",
+        "texlive-extra.data.part013",
+        "texlive-extra.data.part014",
+        "texlive-extra.data.part015",
+        "texlive-extra.data.part016"
+      ],
+      "sha256": "9ae117b8fd7eacc13430296278d63603070f083c6f1e647937a6866874c726ae",
+      "type": "application/octet-stream"
+    }
+  }
+}
